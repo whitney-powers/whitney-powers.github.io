@@ -1,3 +1,6 @@
+## Whitney's personal website
+Adapted from YAT jekyll theme, leaving the readme otherwise the same as the base theme for my own reference later :)
+
 <div align="center">
   <br>
 
